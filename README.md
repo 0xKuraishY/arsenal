@@ -1,9 +1,15 @@
+<div align="center">
+
+<img src="assets/logo.svg" alt="Arsenal" width="96">
+
 # Arsenal
 
-Guides techniques de cybersécurité en français, du niveau débutant à expert.
+Guides techniques de cybersécurité en français, du niveau débutant à expert.<br>
 Rédigés par **0xKuraishY**.
 
 [![Licence : CC BY-NC-SA 4.0](https://img.shields.io/badge/licence-CC_BY--NC--SA_4.0-lightgrey)](LICENSE)
+
+</div>
 
 ---
 
