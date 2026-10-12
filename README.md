@@ -1,10 +1,6 @@
 <div align="center">
 
-# Arsenal
-
-**Guides techniques de cybersécurité — du débutant à l'expert**
-
-Blue team · Red team · Reverse engineering · Internals · Identité & crypto
+<img src="assets/banner.svg" alt="Arsenal — guides techniques de cybersécurité" width="100%">
 
 Par **0xKuraishY**
 
