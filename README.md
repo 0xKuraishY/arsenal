@@ -60,6 +60,7 @@ déjà le contenu prévu, le PDF arrivera dans un prochain ajout.
 | [Réponse à incident](blue-team/reponse-incident/) | Tous | Sécuriser, détecter et réagir à une compromission |
 | [Analyse de risque](blue-team/analyse-de-risque/) | Expert | EBIOS RM, quantification FAIR, Monte-Carlo |
 | [Detection engineering](blue-team/detection-engineering/) *(à venir)* | Avancé | Concevoir des détections qui tiennent |
+| [Détection d'anomalies](blue-team/detection-anomalies/) | Avancé | Statistiques & ML : lignes de base, scores, UEBA, et pourquoi l'« IA » fait du bruit |
 | [Forensique mémoire](blue-team/forensique-memoire/) | Expert | Analyser une machine en vie (Volatility 3) |
 
 ### Red team
